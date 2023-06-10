@@ -1,23 +1,26 @@
 ![Wallpaper](./images/wall.jpg)
 
-# Seraj Al Mahmud Mostafa
+# Seraj Mostafa
 
 | [About](about.md) | [Projects](projects.md) | [Publications](publications.md) | [Misc](misc.md) |
 
-## My Name
+## Seraj Al Mahmud Mostafa
 
 ### Welcome to my website!
 
 Some introductory text goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel neque a nunc commodo ultrices. Proin accumsan, elit vitae scelerisque suscipit, nisi ipsum auctor mi, id facilisis sem purus non urna.
 
-![Image](./images/S.jpg)
+<div style="text-align: right;">
+  <img src="./images/S.jpg" alt="Image" width="300px">
+</div>
+<!-- ![Image](./images/S.jpg) -->
 
 ## Latest News
 
-- News 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-- News 2: Sed vehicula massa at turpis dignissim, sed lobortis orci consequat.
-- News 3: Nulla sed ligula ut est ullamcorper iaculis eget quis ante.
+- News 1: CNN based Ocead Eddy Accepted!
+- News 2: New submission to CIKM!
+- News 3: Other two in prep!
 
 ---
 
-Copyright © 2023 My Website
+Copyright © 2023 Seraj Mostafa
