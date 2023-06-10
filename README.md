@@ -11,10 +11,12 @@
 Some introductory text goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel neque a nunc commodo ultrices. Proin accumsan, elit vitae scelerisque suscipit, nisi ipsum auctor mi, id facilisis sem purus non urna.
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+<!--   <div style="flex: 1;"> -->
+    <div style="flex-basis: 50%;">
     Some introductory text goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel neque a nunc commodo ultrices. Proin accumsan, elit vitae scelerisque suscipit, nisi ipsum auctor mi, id facilisis sem purus non urna.
   </div>
-  <div style="flex: 1;">
+<!--   <div style="flex: 1;"> -->
+    <div style="flex-basis: 50%;">
     <img src="./images/S.jpg" alt="Image" width="200px">
   </div>
 </div>
