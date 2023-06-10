@@ -1,6 +1,6 @@
-# Seraj Al Mahmud Mostafa
-
 ![Wallpaper](./images/wall.jpg)
+
+# Seraj Al Mahmud Mostafa
 
 | [About](about.md) | [Projects](projects.md) | [Publications](publications.md) | [Misc](misc.md) |
 
@@ -10,7 +10,7 @@
 
 Some introductory text goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel neque a nunc commodo ultrices. Proin accumsan, elit vitae scelerisque suscipit, nisi ipsum auctor mi, id facilisis sem purus non urna.
 
-![Image](path/to/image.jpg)
+![Image](./images/S.jpg)
 
 ## Latest News
 
