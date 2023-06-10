@@ -3,7 +3,7 @@
 
 # Seraj Mostafa
 
-| [preamble](./markdownsabout.md) | [academics](./markdowns/academics.md) | [research](./markdowns/projects.md) | [publications](./markdowns/publications.md) | [work](./markdowns/works.md) | [teaching](./markdowns/teaching.md) | [extra](./markdowns/extra.md) |
+| [home](README.md) | [academics](./markdowns/academics.md) | [research](./markdowns/projects.md) | [publications](./markdowns/publications.md) | [work](./markdowns/works.md) | [teaching](./markdowns/teaching.md) | [extra](./markdowns/extra.md) |
 
 # Academics
 
