@@ -1,7 +1,9 @@
 /* Example CSS styles */
 body {
   font-family: Arial, sans-serif;
-  background-color: #f7f7f7;
+  background-image: url('../images/wall.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 h1 {
