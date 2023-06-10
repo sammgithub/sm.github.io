@@ -6,8 +6,6 @@
 
 ## Seraj Al Mahmud Mostafa
 
-### Welcome to my website!
-
 <!-- Some introductory text goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel neque a nunc commodo ultrices. Proin accumsan, elit vitae scelerisque suscipit, nisi ipsum auctor mi, id facilisis sem purus non urna. -->
 
 <div style="display: flex; align-items: center;">
