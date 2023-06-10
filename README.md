@@ -1,9 +1,12 @@
-![Wallpaper](./images/wall.jpg)
+<!-- Include the navigation section -->
+{% include navigation.md %}
+
+<!-- ![Wallpaper](./images/wall.jpg)
 
 # Seraj Mostafa
 
 | [preamble](about.md) | [academics](./markdowns/academics.md) | [research](./markdowns/projects.md) | [publications](./markdowns/publications.md) | [work](./markdowns/works.md) | [teaching](./markdowns/teaching.md) | [extra](./markdowns/extra.md) |
-
+ -->
 ## Seraj Al Mahmud Mostafa
 
 <!-- Some introductory text goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel neque a nunc commodo ultrices. Proin accumsan, elit vitae scelerisque suscipit, nisi ipsum auctor mi, id facilisis sem purus non urna. -->
