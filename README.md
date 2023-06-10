@@ -10,9 +10,18 @@
 
 Some introductory text goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel neque a nunc commodo ultrices. Proin accumsan, elit vitae scelerisque suscipit, nisi ipsum auctor mi, id facilisis sem purus non urna.
 
-<div style="text-align: right;">
-  <img src="./images/S.jpg" alt="Image" width="250px">
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    Some introductory text goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel neque a nunc commodo ultrices. Proin accumsan, elit vitae scelerisque suscipit, nisi ipsum auctor mi, id facilisis sem purus non urna.
+  </div>
+  <div style="flex: 1;">
+    <img src="./images/S.jpg" alt="Image" width="200px">
+  </div>
 </div>
+
+<!-- <div style="text-align: right;">
+  <img src="./images/S.jpg" alt="Image" width="250px">
+</div> -->
 <!-- ![Image](./images/S.jpg) -->
 
 ## Latest News
