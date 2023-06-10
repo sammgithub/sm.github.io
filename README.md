@@ -1,4 +1,4 @@
-![Wallpaper](./images/wall.jpg)
+<!-- ![Wallpaper](./images/wall.jpg)
 
 - [preamble](about.md)
 - [academics](./markdowns/academics.md)
@@ -7,8 +7,8 @@
 - [work](./markdowns/works.md)
 - [teaching](./markdowns/teaching.md)
 - [extra](./markdowns/extra.md)
-
-<!-- ![Wallpaper](./images/wall.jpg) -->
+ -->
+![Wallpaper](./images/wall.jpg)
 
 # Seraj Mostafa
 
