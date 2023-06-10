@@ -11,7 +11,7 @@
 Some introductory text goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel neque a nunc commodo ultrices. Proin accumsan, elit vitae scelerisque suscipit, nisi ipsum auctor mi, id facilisis sem purus non urna.
 
 <div style="text-align: right;">
-  <img src="./images/S.jpg" alt="Image" width="300px">
+  <img src="./images/S.jpg" alt="Image" width="250px">
 </div>
 <!-- ![Image](./images/S.jpg) -->
 
