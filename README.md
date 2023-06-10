@@ -1,4 +1,4 @@
-[nav](./nav.md)
+%(./nav.md)
 <!-- ![Wallpaper](./images/wall.jpg) -->
 
 # Seraj Mostafa
