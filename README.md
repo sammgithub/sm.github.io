@@ -2,7 +2,7 @@
 
 # Seraj Mostafa
 
-| [About](about.md) | [academics](academics.md) | [Publications](./markdowns/publications.md) |[Projects](projects.md) | [work](works.md) | [teaching](teaching.md) | [extra](extra.md) |
+| [preamble](about.md) | [academics](academics.md) | [publications](./markdowns/publications.md) |[projects](projects.md) | [work](works.md) | [teaching](teaching.md) | [extra](extra.md) |
 
 ## Seraj Al Mahmud Mostafa
 
