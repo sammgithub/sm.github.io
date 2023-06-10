@@ -1,4 +1,5 @@
 ![Wallpaper](./images/wall.jpg)
+<!-- images/wall.jpg -->
 
 # Seraj Mostafa
 
