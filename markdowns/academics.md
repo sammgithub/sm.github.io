@@ -1,4 +1,4 @@
-![Wallpaper](sm.github.io/images/wall.jpg)
+![Wallpaper](../images/wall.jpg)
 <!-- images/wall.jpg -->
 
 # Seraj Mostafa
