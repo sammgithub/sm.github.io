@@ -1,5 +1,5 @@
-% nav.md
-<!-- ![Wallpaper](./images/wall.jpg) -->
+<!-- % nav.md -->
+![Wallpaper](./images/wall.jpg)
 
 # Seraj Mostafa
 
