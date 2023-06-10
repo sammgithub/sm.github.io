@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="./css/header.css">
 
-![Wallpaper](./images/wall.jpg)
+<!-- ![Wallpaper](./images/wall.jpg) -->
 
 # Seraj Mostafa
 
